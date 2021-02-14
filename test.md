@@ -3,7 +3,7 @@ layout: default
 title: test markdown page
 ---
 
-{% include_relative test_header.md %}
+{% include_relative _include.md %}
 
 [This is a link](https://armerpunkt.github.io).
 
