@@ -1,6 +1,7 @@
 ---
 layout: home
 background: '/img/bg-index.jpg'
+title: Page Title
 ---
 
 [This is a link](https://armerpunkt.github.io).
