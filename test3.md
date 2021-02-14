@@ -1,6 +1,6 @@
 ---
 layout: home
-background: '/img/bg-index.jpg'
+background: 'ruin2s.jpg'
 title: Page Title
 ---
 
