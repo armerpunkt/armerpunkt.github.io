@@ -12,15 +12,15 @@
   height: 67px;
 }
 
-.slim #mainNav.is-fixed {
+#mainNav.slim {
   background-color: rgba(4,91,6,0.9);
 }
 
-.slim #mainNav a, #mainNav.is-fixed .navbar-brand, #mainNav.is-fixed .navbar-nav > li.nav-item > a {
-  color: #f5f5f5;
+#mainNavs.slim a {
+  color: #FFFFFF;
 }
 
-.slim #mainNav.is-fixed .navbar-brand:hover, #mainNav.is-fixed .navbar-nav > li.nav-item > a:hover {
-  color: #ffffff;
+#mainNav.slim a:hover {
+  color: #F5F5F5;
   text-decoration: underline;
 }
