@@ -4,6 +4,6 @@ title: About
 description: This is the page description.
 ---
 
-#This is the about page
+# This is the about page
 
 Stuff and stuff.
