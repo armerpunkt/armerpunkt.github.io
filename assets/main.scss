@@ -16,11 +16,11 @@
   background-color: rgba(4,91,6,0.9);
 }
 
-#mainNavs.slim a {
+#mainNav.slim a, #mainNav.slim .navbar-brand {
   color: #FFFFFF;
 }
 
-#mainNav.slim a:hover {
+#mainNav.slim a:hover, #mainNav.slim .navbar-brand:hover {
   color: #F5F5F5;
   text-decoration: underline;
 }
