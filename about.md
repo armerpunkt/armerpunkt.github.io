@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: slim
 title: About
 description: This is the page description.
 ---
