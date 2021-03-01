@@ -16,6 +16,6 @@
   background-color: rgba(4,91,6,0.9);
 }
 
-#mainNav a {
+#mainNav a, #mainNav.is-fixed .navbar-brand {
   color: #ffffff;
 }
